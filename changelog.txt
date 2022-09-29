@@ -1,0 +1,16 @@
+Date   : 26 June, 2021
+Version: 1.1
+========================
+1. jQuery Plugins Update from 3.5.1 to 3.6.0
+2. jQuery Migrate Plugin Update from 3.3.0 to 3.3.2
+3. Swiper Plugins and css Update from 6.4.10 to 6.7.1
+4. animate.min.css Update 3.7.0 to 4.1.1
+5. Venobox plugins and css Update from 1.9.1 to 1.9.3
+
+
+
+
+Date   : 15 April, 2021
+Version: 1.0
+========================
+1. Initial Release
